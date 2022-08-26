@@ -11,8 +11,8 @@
 ***
 
 ## FootNotes
-footnote1[^1].
-footnote2[^2].  
+footnote1[^1]. <br>
+footnote2[^2]. <br>
 wordfootnote[^note].
 ***
 
@@ -63,8 +63,8 @@ See the section on [`code`](#code)
 
 ***
 [^1]: ref1.
-[^2]: ref2
-[^note]: ref3
+[^2]: ref2.
+[^note]: ref3.
 
 
 
