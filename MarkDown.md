@@ -2,7 +2,7 @@
 <!-- Comment -->
 
 ## Font Types
-> normal
+> normal <br>
 > **bold** <br>
 > *italic* <br>
 > ***bold+italic*** <br>
