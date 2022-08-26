@@ -3,11 +3,11 @@
 
 ## Font Types
 > normal
-> **bold**
-> *italic*
-> ***bold+italic***
-> x<sup> superscript </sup>
-> x<sub> subscript </sub>
+> **bold** <br>
+> *italic* <br>
+> ***bold+italic*** <br>
+> x<sup> superscript </sup> <br>
+> x<sub> subscript </sub> <br>
 ***
 
 ## FootNotes
